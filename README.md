@@ -2,7 +2,7 @@
 
 - Email: [ldfx_ryc@163.com](mailto:ldfx_ryc@163.com)
 
-- Twitter: [RenYuchen3](https://twitter/@RenYuchen3)
+- Twitter: [RenYuchen3](https://twitter.com/@RenYuchen3)
 
 - CSDN: [Renyuchen_](https://blog.csdn.net/Renyuchen_)
 
