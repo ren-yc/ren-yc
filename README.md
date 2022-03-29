@@ -4,13 +4,15 @@
 
 - Twitter: [RenYuchen3](https://twitter.com/@RenYuchen3)
 
+- Facebook: [Yuchen Ren](https://www.facebook.com/100079767373274)
+
 - CSDN: [Renyuchen_](https://blog.csdn.net/Renyuchen_)
 
 - Codeforces: [renyuchen](https://codeforces.com/profile/renyuchen)
 
 - Github: [ren-yc](https://github.com/ren-yc)
 
-- Luogu: [任宇宸](https://www.luogu.com.cn/user/250291)
+- Luogu: [yuchenren](https://www.luogu.com.cn/user/250291)
 
 - Zhihu: [ren-yc](https://www.zhihu.com/people/ren-yc-64)
 
