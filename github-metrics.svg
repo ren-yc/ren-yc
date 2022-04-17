@@ -2274,7 +2274,7 @@ xD Fix some details.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 681k out of 89m users</span>
+                                    <span class="gh">ranked 682k out of 89m users</span>
                                 </div>
                                 <div class="text">Followed by 13 users</div>
                             </div>
@@ -2582,7 +2582,7 @@ xD Fix some details.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2022, 16:22:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0-beta</span>
+                <span>Last updated 17 Apr 2022, 16:43:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
