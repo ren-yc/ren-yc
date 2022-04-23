@@ -20,6 +20,6 @@
 
 - Zhihu: [ren-yc](https://www.zhihu.com/people/ren-yc-64)
 
-- Site(s): https://renyuchen.vercel.app https://ren-yc.github.io
+- Site(s): https://ren-yc.github.io
 
 [![Metrics](https://raw.githubusercontent.com/ren-yc/ren-yc/master/github-metrics.svg)](https://raw.githubusercontent.com/ren-yc/ren-yc/master/github-metrics.svg)
