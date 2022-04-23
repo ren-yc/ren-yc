@@ -2,6 +2,8 @@
 
 - Email: [ldfx_ryc@163.com](mailto:ldfx_ryc@163.com)
 
+- Bilibili: [WinPowershell](https://space.bilibili.com/2019108871)
+
 - Twitter: [RenYuchen3](https://twitter.com/@RenYuchen3)
 
 - Facebook: [Yuchen Ren](https://www.facebook.com/100079767373274)
@@ -10,7 +12,9 @@
 
 - Codeforces: [renyuchen](https://codeforces.com/profile/renyuchen)
 
-- Github: [ren-yc](https://github.com/ren-yc)
+- GitHub: [ren-yc](https://github.com/ren-yc)
+
+- Stack Overflow: [renyuchen](https://stackoverflow.com/users/15512931/renyuchen)
 
 - Luogu: [yuchenren](https://www.luogu.com.cn/user/250291)
 
