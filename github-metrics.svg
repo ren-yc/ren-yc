@@ -2102,7 +2102,7 @@ xG Updated GitHub Issues Template. ("Bug")
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.25m out of 90m users</span>
+                                    <span class="gh">ranked 4.26m out of 90m users</span>
                                 </div>
                                 <div class="text">Published 10 public repositories</div>
                             </div>
@@ -2599,7 +2599,7 @@ xG Updated GitHub Issues Template. ("Bug")
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 May 2022, 21:40:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 5 May 2022, 22:22:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
