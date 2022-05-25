@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2764" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2796" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            77 issue comments
+                            78 issue comments
                         </div>
                     </section>
                     <section>
@@ -1819,6 +1819,29 @@
                                 <div class="details">
                                     <div>opened by juruo888 in <span class="repo">class-tools/Web-Class-Helper</span></div>
                                     <div class="comment">
+                                        对于 https://github.com/class-tools/Web-Class-Helper/issues/30#issuecomment-1136694146 的回复：多次试验结果表明关闭控制台窗口会随机触发
+                                        <code>SIGINT</code>
+                                        并启动独立异常处理程序（甚至有可能启动失败导致系统提示出错）。
+目前仍未找到具体出错点位。
+😭
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#30 BUG 点击 X 关闭后不会进入输入 quit 的流程</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by juruo888 in <span class="repo">class-tools/Web-Class-Helper</span></div>
+                                    <div class="comment">
                                         @juruo888 在提交 https://github.com/class-tools/Web-Class-Helper/commit/7426ab3ff39583fbbe17dca3763cf1ab6d446d17 中已经修复此问题（工作区中）。
 最新版本 α 4 的包含所有文件的
                                         <code>.zip</code>
@@ -1900,29 +1923,6 @@ xD Complete command "clear".
                                 <div class="details">
                                     <div>opened by hjl2011 in <span class="repo">class-tools/Web-Class-Helper</span></div>
                                     <div>1 file changed <span class="code">++3 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">class-tools/Web-Class-Helper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bc1b8e9</div>
-                                        <div class="message">VER 2.0.1-alpha.4
-
-x- Modify some small features.
- : Move all "#pragma" commands to "varibles.h".</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2612,7 +2612,7 @@ x- Modify some small features.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2022, 14:25:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0-beta</span>
+                <span>Last updated 25 May 2022, 14:51:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
