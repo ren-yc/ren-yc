@@ -2,11 +2,9 @@
 
 - Email: [ldfx_ryc@163.com](mailto:ldfx_ryc@163.com)
 
-- Bilibili: [WinPowershell](https://space.bilibili.com/2019108871)
+- Bilibili: [Powershell7](https://space.bilibili.com/2019108871)
 
-- Twitter: [RenYuchen3](https://twitter.com/@RenYuchen3)
-
-- Facebook: [Yuchen Ren](https://www.facebook.com/100079767373274)
+- Twitter: [RenYuchen3](https://twitter.com/RenYuchen3)
 
 - CSDN: [Renyuchen_](https://blog.csdn.net/Renyuchen_)
 
@@ -14,12 +12,12 @@
 
 - GitHub: [ren-yc](https://github.com/ren-yc)
 
-- Stack Overflow: [renyuchen](https://stackoverflow.com/users/15512931/renyuchen)
+- Stack Overflow: [Yuchen Ren](https://stackoverflow.com/users/15512931/yuchen-ren)
 
 - Luogu: [yuchenren](https://www.luogu.com.cn/user/250291)
 
 - Zhihu: [ren-yc](https://www.zhihu.com/people/ren-yc-64)
 
-- Site(s): https://ren-yc.github.io
+- Site: <https://ren-yc.github.io>
 
 [![Metrics](https://raw.githubusercontent.com/ren-yc/ren-yc/master/github-metrics.svg)](https://raw.githubusercontent.com/ren-yc/ren-yc/master/github-metrics.svg)
