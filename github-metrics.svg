@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            421 Commits
+                            422 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1803,6 +1803,37 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">class-tools/Web-Class-Helper</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#48797a2</div>
+                                        <div class="message">VER 2.0.1-beta.10
+
+$# Change data file format from plain text to Json.
+ : Using "jsoncpp".
+ &amp; https://github.com/open-source-parsers/jsoncpp
+*G Modify Git Ignore file.
+ : For settings Json data file.
+x# Delete Python translate module.
+ : Convert to C++.
+ ! May cause unknown errors.
+x# Delete "yaml-cpp".
+ : Remove Headers / Libraries.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">class-tools/ScratchOff</span>
                                     </div>
@@ -1882,37 +1913,6 @@ x@ Delete GitHub Action "No free usage issue checker".
                                     <div>opened by Daijianghao in <span class="repo">class-tools/Web-Class-Helper</span></div>
                                     <div class="comment">Task 4 由于重要性权重较小，将优先修复 / 添加权重较高的特性。
 若出现较大且由此造成的 Bug，将予以修复。</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">class-tools/Web-Class-Helper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d3efd4b</div>
-                                        <div class="message">VER 2.0.1-alpha.9
-
-!- Add open-source library "jsoncpp".
- : Add Program Debug Databases.
- : Add Static Libraries.
- : Add Headers.
- &amp; https://github.com/open-source-parsers/jsoncpp/wiki/Build-with-VS-2019-on-Windows
-^&gt; Fix command `ow` output error.
- : Using `UTF8ToANSI()`.
-$&gt; Rewrite command `trans` with C++.
- : Using `UrlEncode()`.
- &amp; http://fanyi.youdao.com/openapi?path=data-mode</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2602,7 +2602,7 @@ $&gt; Rewrite command `trans` with C++.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jun 2022, 18:42:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 7 Jun 2022, 19:16:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
