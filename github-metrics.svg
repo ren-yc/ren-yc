@@ -2205,7 +2205,7 @@ xD Delete not used variables and commented-out codes.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 405k out of 92m users</span>
+                                    <span class="gh">ranked 406k out of 92m users</span>
                                 </div>
                                 <div class="text">Followed by 22 users</div>
                             </div>
@@ -2587,7 +2587,7 @@ xD Delete not used variables and commented-out codes.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2022, 20:37:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 20 Jun 2022, 21:39:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
