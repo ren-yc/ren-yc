@@ -2377,7 +2377,7 @@ x# 删除在 2.0.0 之前的版本中用于设置目录权限的 Visual Basic Sc
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.10m out of 317m repositories</span>
+                                    <span class="gh">ranked 4.10m out of 318m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2569,7 +2569,7 @@ x# 删除在 2.0.0 之前的版本中用于设置目录权限的 Visual Basic Sc
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2022, 14:22:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 25 Jun 2022, 14:46:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
