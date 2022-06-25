@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2648" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2611" class="">
     <defs>
         <style/>
     </defs>
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 45 repositories
+                            Starred 46 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1785,6 +1785,19 @@
                                     </svg>
                                     <div class="content">
                                         Starred
+                                        <span class="repo">YerongAI/Office-Tool</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
                                         <span class="repo">mmanela/MarkdownOutlook</span>
                                     </div>
                                 </div>
@@ -1848,37 +1861,6 @@ x&gt; Remove unused command function for removed command "speedtest".</div>
 
 ^@ 修复 GitHub Action CodeQL 编译代码时失败.
  : 加入配置 vcpkg 环境的命令.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">class-tools/Web-Class-Helper</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eb0fd42</div>
-                                        <div class="message">VER 2.0.1-alpha.15
-
-x# 删除在 2.0.0 之前的版本中用于设置目录权限的 Visual Basic Script 脚本.
- : 可使用 2.0.1 版本 MSI 安装包构建工具 InstallShield 中目录权限设置代替.
-*# 修改第三方库 jsoncpp 的使用方式.
- : 从自行构建的静态 LIB 库转为使用 vcpkg 安装的动态 DLL 库.
- &amp; https://vcpkg.io/en/getting-started.html
- &amp; https://github.com/open-source-parsers/jsoncpp/blob/master/README.md
- &amp; https://github.com/Microsoft/vcpkg
-*# 为更改 jsoncpp 使用模式修改 Visual Studio C++ Project 文件.
- : 删除相关手动设置的包含目录.
-*- 为 MessageBox 对话框添加 MB_TOPMOST 属性使其置顶.</div>
                                     </div>
                                 </div>
                             </section>
@@ -2087,7 +2069,7 @@ x# 删除在 2.0.0 之前的版本中用于设置目录权限的 Visual Basic Sc
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="34.2713567839196 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.050251256281406 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2106,7 +2088,7 @@ x# 删除在 2.0.0 之前的版本中用于设置目录权限的 Visual Basic Sc
                                     <span class="prefix"></span>
                                     Stargazer
                                 </div>
-                                <div class="text">Starred 45 repositories</div>
+                                <div class="text">Starred 46 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2569,7 +2551,7 @@ x# 删除在 2.0.0 之前的版本中用于设置目录权限的 Visual Basic Sc
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2022, 19:37:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0-beta</span>
+                <span>Last updated 25 Jun 2022, 20:30:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
