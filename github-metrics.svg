@@ -2089,7 +2089,7 @@ Category files push weights and delete initializers to avoid large warnings</div
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.99m out of 146m users</span>
+                                    <span class="gh">ranked 6.99m out of 141m users</span>
                                 </div>
                                 <div class="text">Published 10 public repositories</div>
                             </div>
@@ -2141,7 +2141,7 @@ Category files push weights and delete initializers to avoid large warnings</div
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 256k out of 146m users</span>
+                                    <span class="gh">ranked 256k out of 141m users</span>
                                 </div>
                                 <div class="text">Followed by 53 users</div>
                             </div>
@@ -2554,7 +2554,7 @@ Category files push weights and delete initializers to avoid large warnings</div
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2024, 02:42:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 Oct 2024, 03:14:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
