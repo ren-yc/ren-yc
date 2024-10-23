@@ -2379,7 +2379,7 @@ Category files push weights and delete initializers to avoid large warnings</div
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.42m out of 223m repositories</span>
+                                    <span class="gh">ranked 5.42m out of 179m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2571,7 +2571,7 @@ Category files push weights and delete initializers to avoid large warnings</div
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Oct 2024, 19:37:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 Oct 2024, 20:37:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
