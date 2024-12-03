@@ -256,7 +256,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="338.1065016808172" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="338.1065016808172" y="0" width="77.79609544254106" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="338.1065016808172" y="0" width="77.79609544254106" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="415.9025971233583" y="0" width="43.7812431572376" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="459.6838402805959" y="0" width="0.31615971940410936" height="8" fill="#c6538c"/>
                 </svg>
@@ -291,7 +291,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 CSS
                             </div>
@@ -2102,7 +2102,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.47m out of 226m repositories</span>
+                                    <span class="gh">ranked 5.47m out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2294,7 +2294,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 20:40:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Dec 2024, 21:30:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
